@@ -54,7 +54,7 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iie-aW-nog">
                                 <rect key="frame" x="92" y="246" width="124" height="79"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Voltar"/>
+                                <state key="normal" title="Bianca"/>
                                 <connections>
                                     <action selector="btnRetornar:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Y1z-Xj-OJy"/>
                                 </connections>
