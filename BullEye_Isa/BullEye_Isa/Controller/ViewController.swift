@@ -15,6 +15,14 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func btnHit(_ sender: Any) {
+        let popup = UIAlertController(title:"x", message: "msg", preferredStyle: .alert)
+        let action = UIAlertAction(title: "Ok", style: .default, handler: nil)
+        
+       popup.addAction(action)
+        
+        present(popup, animated: true, completion: nil)
+    }
+    
 }
 
