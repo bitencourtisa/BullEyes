@@ -58,10 +58,7 @@
 				18D6EA2622CB87200065BEE2 /* Controller */,
 				18D6EA2522CB87190065BEE2 /* View */,
 				18D6EA1322CB870D0065BEE2 /* AppDelegate.swift */,
-				18D6EA1522CB870D0065BEE2 /* ViewController.swift */,
-				18D6EA1722CB870D0065BEE2 /* Main.storyboard */,
 				18D6EA1A22CB870E0065BEE2 /* Assets.xcassets */,
-				18D6EA1C22CB870E0065BEE2 /* LaunchScreen.storyboard */,
 				18D6EA1F22CB870E0065BEE2 /* Info.plist */,
 			);
 			path = BullEye_Isa;
@@ -70,6 +67,8 @@
 		18D6EA2522CB87190065BEE2 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				18D6EA1C22CB870E0065BEE2 /* LaunchScreen.storyboard */,
+				18D6EA1722CB870D0065BEE2 /* Main.storyboard */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -77,6 +76,7 @@
 		18D6EA2622CB87200065BEE2 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				18D6EA1522CB870D0065BEE2 /* ViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
